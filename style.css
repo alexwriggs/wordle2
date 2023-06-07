@@ -53,3 +53,10 @@ h1 {
     cursor: pointer;
     text-transform: uppercase;
   }
+
+  p {
+    color: red;
+    text-align: center;
+  }
+
+ 
